@@ -8,236 +8,121 @@
 	>
 
 <channel>
-	<title>My Blog</title>
-	<atom:link href="https://mdshanewaz.github.io/WordPress_Proj_4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mdshanewaz.github.io/WordPress_Proj_4/</link>
-	<description>My Website</description>
-	<lastBuildDate>Fri, 06 Nov 2020 14:43:33 +0000</lastBuildDate>
+	<title>Website Creation</title>
+	<atom:link href="https://mdshanewaz.github.io/WordPress_Proj-6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mdshanewaz.github.io/WordPress_Proj-6</link>
+	<description></description>
+	<lastBuildDate>Sat, 06 Mar 2021 15:08:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/LogoMakr-6xurIF-150x150.png</url>
-	<title>My Blog</title>
-	<link>https://mdshanewaz.github.io/WordPress_Proj_4/</link>
+	<url>https://mdshanewaz.github.io/WordPress_Proj-6/wp-content/uploads/2021/03/LogoMakr-6xurIF-150x150.png</url>
+	<title>Website Creation</title>
+	<link>https://mdshanewaz.github.io/WordPress_Proj-6</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>New Blog post Six</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-six/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-six/#respond</comments>
+		<title>Marketing</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-6/marketing/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-6/marketing/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2020 14:43:33 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 12:36:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_4/?p=242</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-6/?p=232</guid>
 
-					<description><![CDATA[Food is the necessity of life. It provides nutrition, sustenance and growth to human body. Food can be classified into cereals, pulses, nuts and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burn</p>
-<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burn</p>
-<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burnt or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
-<p>t or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
-<p>t or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.Tags: No tags</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-six/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-6/marketing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>New Blog Post Five</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-five/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-five/#respond</comments>
+		<title>Photography</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-6/photography/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-6/photography/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2020 14:41:51 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:11:41 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_4/?p=239</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-6/?p=58</guid>
 
-					<description><![CDATA[Food is the necessity of life. It provides nutrition, sustenance and growth to human body. Food can be classified into cereals, pulses, nuts and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burn<a href="http://devpnewaz.unaux.com/"><img loading="lazy" class="alignright wp-image-153" src="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg" alt="" width="266" height="266" srcset="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-150x150.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" /></a>t or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
-<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burn<a href="http://devpnewaz.unaux.com/"><img loading="lazy" class="alignright wp-image-153" src="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg" alt="" width="266" height="266" srcset="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-150x150.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" /></a>t or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
-<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burn<a href="http://devpnewaz.unaux.com/"><img loading="lazy" class="alignright wp-image-153" src="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg" alt="" width="266" height="266" srcset="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-150x150.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" /></a>t or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-five/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-6/photography/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>New Blog Post Four</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-four/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-four/#respond</comments>
+		<title>Web Design</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-6/web-design/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-6/web-design/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2020 14:38:19 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:10:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_4/?p=236</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-6/?p=55</guid>
 
-					<description><![CDATA[Food is the necessity of life. It provides nutrition, sustenance and growth to human body. Food can be classified into cereals, pulses, nuts and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burn<a href="http://devpnewaz.unaux.com/"><img loading="lazy" class="alignright wp-image-153" src="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg" alt="" width="266" height="266" srcset="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-150x150.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" /></a>t or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
-<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burnt or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-four/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-6/web-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>My Blog Post</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj_4/my-blog-post/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj_4/my-blog-post/#respond</comments>
+		<title>Data Science</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-6/data-science/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-6/data-science/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2020 14:33:43 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:09:55 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_4/?p=234</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-6/?p=52</guid>
 
-					<description><![CDATA[Food is the necessity of life. It provides nutrition, sustenance and growth to human body. Food can be classified into cereals, pulses, nuts and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Food is the necessity of life. It provides <strong>nutrition</strong>, sustenance and growth to human body. Food can be classified into cereals, pulses, <span style="color: #000000;">nuts</span> and oilseeds, vegetable, fruits, milk and milk products and flesh food. Food comprises protein, facts, carbohydrates, vitamins, minerals salts and water. Most of the food items contain all these in varying properties. Oil and ghee are exclusively fats while sugarcane and starch contain high amount of carbohydrates. Accordingly, food items are termed as protein rich, vitamin rich, fat rich food etc. Proteins, fats and carbohydrates are <a href="http://www.goofle.com/">usually</a> termed as proximate principles. Along with water, which is an important food element, proximate principles from the main bulk food? These are burn<a href="http://devpnewaz.unaux.com/"><img loading="lazy" class="alignright wp-image-153" src="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg" alt="" width="266" height="266" srcset="https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj_4/wp-content/uploads/Jim-Fahad-Digital-Portfolio-blog-portfolio-12-150x150.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" /></a>t or oxidized in the body to provide energy for the different activities of life. Consequently, different age groups need different food mix. Vitamins and minerals salts do not supply energy but they play a very crucial role in regularization of various body functions. Some of the minerals are important components of the body structure like bones and teeth.</p>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_4/my-blog-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-6/data-science/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>New Blog Post three</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-three/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-three/#respond</comments>
+		<title>Ecommerce</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-6/ecommerce/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-6/ecommerce/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2020 14:31:41 +0000</pubDate>
-				<category><![CDATA[Tip and Tricks]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_4/?p=231</guid>
-
-					<description><![CDATA[Outbound links These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later). The only link that should drive visitors off the page [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-three/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>New Blog Post two</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-two/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-two/#respond</comments>
-		
-		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2020 14:29:20 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:08:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_4/?p=228</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-6/?p=49</guid>
 
-					<description><![CDATA[Outbound links These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later). The only link that should drive visitors off the page [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post-two/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>New Blog Post</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post/#respond</comments>
-		
-		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2020 14:28:39 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_4/?p=225</guid>
-
-					<description><![CDATA[Outbound links These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later). The only link that should drive visitors off the page [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-<p><strong>Outbound links</strong></p>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_4/new-blog-post/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Landing Pages That Converts Travellers into Customers</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj_4/landing-pages-that-converts-travellers-into-customers/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj_4/landing-pages-that-converts-travellers-into-customers/#respond</comments>
-		
-		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2020 12:40:19 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[Tip and Tricks]]></category>
-		<category><![CDATA[Website Basic]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_4/?p=215</guid>
-
-					<description><![CDATA[Many marketers would have you believe a post-click landing page is simply any page a visitor lands on after clicking through an advertisement or promotional link. That’s incorrect. While countless campaigns use a variety of website resources (like homepages, “About” pages, or “Contact Us” pages) as post-click landing pages, that does not make them post-click landing pages. Think [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Many marketers would have you believe a post-click landing page is simply any page a visitor lands on after clicking through an advertisement or promotional link. That’s incorrect.</p>
-<p>While countless campaigns <i>use</i> a variety of website resources (like homepages, “About” pages, or “Contact Us” pages) as post-click landing pages, <i>that does not make them post-click landing pages.</i></p>
-<p>Think of it this way: You could use a baseball glove to retrieve a hot dish from the oven, but that doesn’t make your baseball glove an oven mitt.</p>
-<p>Similarly, directing visitors to your homepage or “Contact Us” page doesn’t make those pages post-click landing pages. A post-click landing page is a standalone web page, disconnected from a website’s navigation, created for the sole purpose of convincing a visitor to act (to sign up, buy, download, etc.). This is generally powered by a robust landing page optimization platform:</p>
-<div class="video-responsive-wrapper">
-<div class="video-responsive video-youtube">
-<div class="loader">There are two major reasons every promotion needs its own post-click landing page. Both highlight why it’s a bad idea to direct visitors to your homepage, or a generic page on your website like “About” or “Contact us.” They also highlight how post-click landing pages can generate more conversions for any business. Here are those reasons:</div>
-<div>
-<p>When visitors arrive here, their expectations are met. There’s no question about whether this post-click landing page is where they’re supposed to be, or whether they’ll be able to claim the offer that was presented in the ad.</p>
-<p>On the other hand, without the mention of a 40% discount on the first post-click landing page, visitors may question whether they’re able to claim the offer advertised in the link. Prevent similar confusion on your post-click landing page by making sure:</p>
-<p>This is the singular act you want visitors to take. If you’ve created a report post-click landing page, your conversion goal is downloads. If you’ve built a free trial post-click landing page, your conversion goal is signups.</p>
-<p>Each post-click landing page should only have <i>one goal.</i> If your post-click landing page is built for the purpose of getting prospects to sign up for a free trial of your service, it shouldn’t also attempt to convince them to download a report. Two CTAs of “Download” and “Sign up” will steal conversions from each other. Instead, it’s better to build a separate page for each.</p>
-<p>This practice is based on research that shows what happens when people are presented with too many choices.</p>
-<h3><strong>Outbound links</strong></h3>
-<p>These are any links that drive users off your post-click landing page. There should be no outbound links in your logo, in the body of your page, or any links in a navigation menu (because your navigation menu should be non-existent… more on that later).</p>
-<p>The <i>only</i> link that should drive visitors off the page is the one in your call-to-action button. When they click it, your visitors should be directed to the next step in the conversion process — whether that’s another post-click landing page or a <a href="https://instapage.com/blog/ab-testing-thank-you-pages" target="_blank" rel="noopener noreferrer">“thank you” page</a>. Any other outbound link detracts from your conversions.</p>
-</div>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_4/landing-pages-that-converts-travellers-into-customers/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-6/ecommerce/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
